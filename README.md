@@ -12,3 +12,10 @@ The bot is now in version 2.0 and will search for the Dark Souls emoticon. Thank
 Subreddit /r/ArmFixerBot has been created to gather ideas from the community and so users can notify me of bugs.
 
 Created new repo due to sensitive information within revision history. (Oops)
+
+
+- May 12, 2016
+
+The bot is now in version 2.1.
+
+Added compatibility for Linux. (Script is now running on Debian, errors were given when running the bot asking for correct encoding.)
