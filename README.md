@@ -19,3 +19,7 @@ Created new repo due to sensitive information within revision history. (Oops)
 The bot is now in version 2.1.
 
 Added compatibility for Linux. (Script is now running on Debian, errors were given when running the bot asking for correct encoding.)
+
+- May 13, 2016
+
+The bot is now running on a Raspberry Pi Zero, meaning more uptime with less power consumption.
