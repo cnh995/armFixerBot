@@ -23,3 +23,7 @@ Added compatibility for Linux. (Script is now running on Debian, errors were giv
 - May 13, 2016
 
 The bot is now running on a Raspberry Pi Zero, meaning more uptime with less power consumption.
+
+- May 29, 2016
+
+The bot handles errors more gracefully.
