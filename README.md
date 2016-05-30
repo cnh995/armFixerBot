@@ -26,4 +26,6 @@ The bot is now running on a Raspberry Pi Zero, meaning more uptime with less pow
 
 - May 29, 2016
 
+The bot is now in version 2.2.
+
 The bot handles errors more gracefully.
