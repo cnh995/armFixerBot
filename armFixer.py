@@ -51,7 +51,7 @@ def run_bot():
                         f.write(comment_id + "\n")
 
     #Error handling
-    except Exception as e:
+    except Error as e:
         print(type(e))
     
 #puts bot to sleep after running out of posts or comments to look for
