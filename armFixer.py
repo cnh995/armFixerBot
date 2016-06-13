@@ -32,7 +32,7 @@ def run_bot():
             commentMatch = any(string in comment_text for string in keywords) #searches for matches between comment body and keywords list
             print(commentMatch)
             if commentMatch and comment.id not in commentsRepliedTo:
-                comment.reply('I think you were trying to make this ¯\\\\\\_(ツ)\_/¯!  \n  Type it like this ¯\\\\\\\\\\\\\_(ツ)\_/¯  \n  ^^I ^^am ^^a ^^bot, ^^visit ^^/r/ArmFixerBot ^^for ^^more ^^info!') #enter comment reply in quotes
+                comment.reply('I think you were trying to make this ¯\\\\\\_(ツ)\_/¯!  \n  Type it like this ¯\\\\\\\\\\\\\_(ツ)\\\\_/¯  \n  ^^I ^^am ^^a ^^bot, ^^visit ^^/r/ArmFixerBot ^^for ^^more ^^info!') #enter comment reply in quotes
                 commentsRepliedTo.append(comment.id)
                 with open("commentsRepliedTo.txt", "w") as f: #adds comment id to a list, so it will never be replied to again
                     for comment_id in commentsRepliedTo:
