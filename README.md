@@ -7,7 +7,7 @@ The bot uses Reddit's API to search through the comments in /r/all, looking for 
 
 - April 23, 2016
 
-The bot is now in version 2.0 and will search for the Dark Souls emoticon. Thank you to /u/sexyboot
+The bot is now in version 2.0 and will search for the Dark Souls emoticon. Thank you to /u/sexyboot.
 
 Subreddit /r/ArmFixerBot has been created to gather ideas from the community and so users can notify me of bugs.
 
@@ -34,4 +34,4 @@ The bot handles errors more gracefully.
 
 The bot is now in version 2.2.1.
 
-The second underscore is now escaped, allowing for easier formatting if users copy and paste.
+The second underscore is now escaped, allowing for easier formatting if users copy and paste. Thank you to /u/xJetStorm.
