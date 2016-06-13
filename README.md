@@ -29,3 +29,9 @@ The bot is now running on a Raspberry Pi Zero, meaning more uptime with less pow
 The bot is now in version 2.2.
 
 The bot handles errors more gracefully.
+
+- June 12, 2016
+
+The bot is now in version 2.2.1.
+
+The second underscore is now escaped, allowing for easier formatting if users copy and paste.
